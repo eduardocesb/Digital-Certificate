@@ -2,7 +2,7 @@
 
 Installing Python and Pip:
 
-Available in this (Link)[https://www.python.org/downloads/] 
+Available in this [Link](https://www.python.org/downloads/)
 
 Installing requirements:
 
