@@ -16,10 +16,10 @@ python -m venv myvenv. Para Windows
 Working with virtualenv:
 
 ~~~Linux e Mac OS
-python3 -m venv myvenv\Scripts\activate. para Linux ou MAC OS
+source myvenv/bin/activate. para Linux ou MAC OS
 ~~~
 ~~~Windows
-source myvenv/bin/activate. Para Windows
+myvenv\Scripts\activate. Para Windows
 ~~~
 
 Installing requirements:
